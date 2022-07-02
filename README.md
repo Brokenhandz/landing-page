@@ -1,1 +1,1 @@
-# landing-page
+In this project I will be demonstrating the ability to creat an entire webpage from scratch with a design provided for me, using my HTML and CSS skills.
