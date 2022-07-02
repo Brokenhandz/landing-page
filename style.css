@@ -13,10 +13,13 @@ display: flex;
 align-items: center;
 justify-content: space-around;
 flex-wrap: wrap;
+background-color: #1F2937;
 }
 .main-nav ul {
     margin: 1em 0 .5em;
     text-align: center;
+    font-size: 18px;
+    font-display: #E5E7EB;
 }
 .main-nav li {
     display: inline;
@@ -24,6 +27,10 @@ flex-wrap: wrap;
 .main-nav a {
     display: inline-block;
     padding: .5em 1.5em;
+}
+
+.second-header {
+    background-color: #1F2937;
 }
 
 
