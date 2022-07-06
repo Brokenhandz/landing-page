@@ -5,7 +5,6 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-}
-.h4 {
-    padding-right: 100px;
+    color: #f9faf8;
+    font-size: 24px;
 }
