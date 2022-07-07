@@ -1,3 +1,4 @@
 .container {
-    font-size: 50px;
-}
+    display: flex; /* or inline-flex */
+    flex-direction: row;
+  }
