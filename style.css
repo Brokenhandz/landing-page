@@ -1,4 +1,4 @@
-.container {
-    display: flex; /* or inline-flex */
-    flex-direction: row;
-  }
+.navigation {
+  display: flex;
+  justify-content: space-evenly;
+}
