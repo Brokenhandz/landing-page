@@ -1,4 +1,13 @@
+.container {
+  background-color: #1f2937;
+  
+}
+
 .navigation {
   display: flex;
-  justify-content: space-evenly;
+  justify-content: end;
+  gap: 30px;
+  padding-right: 225px;
+  font-size: 18px;
+  color: #e5e7eb;
 }
