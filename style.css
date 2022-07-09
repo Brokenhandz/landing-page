@@ -3,4 +3,11 @@
     justify-content: flex-end;
     gap: 50px;
     margin-right: 150px;
-}}
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.image {
+    display: flex;
+    justify-content: center;
+}
